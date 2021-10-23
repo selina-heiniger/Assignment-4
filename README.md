@@ -4,8 +4,6 @@
 Author: **Selina Heiniger ([@Selina-Heiniger] (https://github.com/selina-heiniger))**
 Original code by: **Moin Khan ([@Mo-inKhan](https://github.com/Mo-inKhan))**   
 
-
-
 ### Features
 - Plot Stress Strain Curve using Load and Elongation Data from external Data file.
 - Offset Line for yield stress is automatically plotted.
@@ -20,8 +18,6 @@ Original code by: **Moin Khan ([@Mo-inKhan](https://github.com/Mo-inKhan))**
 - Add path of Code in PYTHONPATH manager to access external data file
 - Run the program
 - Safe the output
-
-
 
 ## LICENSE
 Stress-Strain-Curve is released under the MIT License. Check out the full license **[here](/LICENSE)**.
